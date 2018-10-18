@@ -5,7 +5,7 @@ import './bootstrap-theme.css';
 import './style.css';
 import './font-awesome.min.css';
 import './isotope.css';
-import './camera.css';
+// import './camera.css';
 
 
 
